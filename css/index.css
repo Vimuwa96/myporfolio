@@ -1,0 +1,87 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: white;
+
+}
+
+.designation {
+  color: white;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-weight: 500;
+  font-family: 'Poppins', sans-serif;
+}
+
+.online{
+    position: absolute;
+    right: 35px;
+    bottom: 45px;
+    font-family: 'Poppins', sans-serif;
+}
+
+#images{
+    position: relative;
+    background-color: rgb(66, 65, 65);
+    overflow-x: hidden;
+}
+
+
+#aboutme{
+    background-color: rgb(231, 228, 228);
+    
+}
+
+
+table{
+    font-size: 11px;
+    font-family: 'Poppins', sans-serif;
+}
+
+#skills{
+    font-size: 10px;
+}
+
+#id{
+    background-color: rgb(19, 18, 18);
+}
+
+
+.name{
+    line-height: 5px;
+}
+
+.web{
+    font-size: 10px;
+    color: rgb(177, 172, 172);
+}
+
+
+#hero{
+    font-size: 13px;
+    font-family: 'Poppins', sans-serif;
+}
+
+
+
+#app{
+    font-family: 'Poppins', sans-serif;
+    font-size: 35px;
+    letter-spacing: 5px;
+    color: rgb(85, 82, 82);
+}
+
+.cover{
+   position:absolute;
+    background-attachment: fixed;
+    background-size: cover;
+    border-radius:62% 38% 29% 71% / 45% 64% 36% 55%  ;
+}
+
+.cover-section{
+    position: relative;
+}
